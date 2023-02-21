@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# SILVERBACK LITE
 
-## Setup
+## What is it?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Silverback Client Lite is the Lite version of Silverback Client
 
-## License
+## What differences are there between The Lite and Premium Versions?
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+The lite version uses less resources, is more efficient, emits less greenhouse gases, but some features are locked, including Auto Silverback.
