@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "SBLITE",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "SBLITE",
+  "description": "A lite version of the Silverback Client",
   "authors": [
-    "Me!"
+    "Silverback auhtors"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "Baabel 12 20500",
+    "sources": "https://github.com/BabyloniaSoftware/Silverback-Client-Lite-Version"
   },
 
-  "license": "CC0-1.0",
+  "license": "SBLASBPL",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.silverbacklite.folder8842.file22895"
     ]
   },
   "mixins": [
